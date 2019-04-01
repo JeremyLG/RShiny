@@ -1,0 +1,9 @@
+{"timestamp":"2019-04-01T15:22:22.334+01:00", "program":"tricky", "requests":1000, "latency": 15}
+{"timestamp":"2019-04-01T15:22:22.334+01:00", "program":"issou", "requests":10, "latency": 30}
+{"timestamp":"2019-04-02T18:22:22.334+01:00", "program":"issou", "requests":1000, "latency": 45}
+{"timestamp":"2019-04-01T18:22:22.334+01:00", "program":"tricky", "requests":1550, "latency": 35}
+{"timestamp":"2019-04-02T15:22:22.334+01:00", "program":"tricky", "requests":1200, "latency": 100}
+{"timestamp":"2019-04-01T15:22:22.334+01:00", "program":"topkek", "requests":10, "latency": 15}
+{"timestamp":"2019-04-03T12:22:22.334+01:00", "program":"tricky", "requests":100, "latency": 150}
+{"timestamp":"2019-04-01T19:22:22.334+01:00", "program":"topkek", "requests":100, "latency": 45}
+{"timestamp":"2019-04-04T19:22:22.334+01:00", "program":"tricky", "requests":1800, "latency": 115}
